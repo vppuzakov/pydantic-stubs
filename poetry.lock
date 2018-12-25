@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "Data validation and settings management using python 3.6 type hinting"
+name = "pydantic"
+optional = false
+python-versions = ">=3.6"
+version = "0.12.1"
+
+[metadata]
+content-hash = "0ca64e1f06cab7bab5b737abc377144d4e14dbd289f0bddbb08ed2e47a4daed6"
+python-versions = "^3.6"
+
+[metadata.hashes]
+pydantic = ["47522392bf7c852a74fff909360925dac7b5186559c3bbd4c9d08f33bf6258dc", "db8ea2a13896b2b87041ff6465fa51633932e24e13f3bef79ccaeddac0e927bd"]

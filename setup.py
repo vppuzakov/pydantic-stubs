@@ -14,7 +14,7 @@ def find_stubs(package):
 
 setup(
     name='pydantic-stubs',
-    version='0.0.1',
+    version='0.1.0',
     description='PEP 561 type stubs for pydantic',
     long_description=open('README.rst').read(),
     url='https://github.com/vppuzakov/pydantic-stubs',
