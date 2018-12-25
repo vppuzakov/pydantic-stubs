@@ -1,3 +1,8 @@
+.idea
+.vscode
+pydantic
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
